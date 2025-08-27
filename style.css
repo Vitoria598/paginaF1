@@ -1,4 +1,8 @@
 body{
    color: white;
-   background: blue;
+   background: DarkRed;
+}
+
+h2{
+   font-size: 20;
 }
